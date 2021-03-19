@@ -2,10 +2,10 @@
 
 I'm a JS dev with experience in front-end. Open to offers in React.js / Node.js
 
-###Portfolio:
+### Portfolio:
 http://kugelek.github.io/gatsby-portfolio
 
-###LinkedIn:
+### LinkedIn:
 https://www.linkedin.com/in/jakub-pob%C5%82ocki/
 
 
