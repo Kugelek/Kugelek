@@ -1,4 +1,14 @@
-### Hi there 👋
+#### Hi there 👋
+
+I'm a JS dev with experience in front-end. Open to offers in React.js / Node.js
+
+#Portfolio:
+http://kugelek.github.io/gatsby-portfolio
+
+#LinkedIn:
+https://www.linkedin.com/in/jakub-pob%C5%82ocki/
+
+
 
 <!--
 **Kugelek/Kugelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
